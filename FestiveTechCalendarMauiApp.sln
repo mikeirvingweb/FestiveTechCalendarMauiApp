@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FestiveTechCalendarMauiApp", "FestiveTechCalendarMauiApp\FestiveTechCalendarMauiApp.csproj", "{03EEBAFF-6732-4319-AAD1-7A5CBD64F0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EEBAFF-6732-4319-AAD1-7A5CBD64F0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EEBAFF-6732-4319-AAD1-7A5CBD64F0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EEBAFF-6732-4319-AAD1-7A5CBD64F0AA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{03EEBAFF-6732-4319-AAD1-7A5CBD64F0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EEBAFF-6732-4319-AAD1-7A5CBD64F0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EEBAFF-6732-4319-AAD1-7A5CBD64F0AA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AEF75BF-9EB7-4860-919D-7786A3D4BA08}
+	EndGlobalSection
+EndGlobal
